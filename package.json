@@ -1,0 +1,27 @@
+{
+    "name": "datepicker-green-p14",
+    "version": "1.0.0",
+    "main": "src/index.js",
+    "files": [
+        "src"
+    ],
+    "peerDependencies": {
+        "react": "^18.0.0",
+        "react-dom": "^18.0.0"
+    },
+    "scripts": {
+        "build": "babel src --out-dir src"
+    },
+    "keywords": [
+        "react",
+        "plugin",
+        "npm"
+    ],
+    "author": "Anaïs-71",
+    "license": "MIT",
+    "devDependencies": {
+        "@babel/cli": "^7.25.9",
+        "@babel/preset-env": "^7.26.0",
+        "@babel/preset-react": "^7.25.9"
+    }
+}
